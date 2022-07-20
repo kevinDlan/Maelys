@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "947587391852",
+    "project_id": "maelys-imo",
+    "storage_bucket": "maelys-imo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947587391852:android:8dbb0fc82b848c6e385349",
+        "android_client_info": {
+          "package_name": "com.kkstechnologies.maelysimo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947587391852-o81r1hgndcoippj1noic1nrb06hn3rk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA08rT4625lQhodkVns2fMMxC-gqpH_R14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947587391852-o81r1hgndcoippj1noic1nrb06hn3rk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947587391852-1mlvsopubkirolkjigstpkn1h00oh085.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kkstechnologies.maelysimo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
